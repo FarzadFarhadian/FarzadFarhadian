@@ -22,7 +22,7 @@ I'm a Data analyst with a strong background in<br> statistics, probability, Exce
 ![Excel](https://img.shields.io/badge/Excel-%23FF6F00.svg?style=flat&logo=Excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%2307405e.svg?style=flat&logo=Tableau&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-%23013243.svg?style=flat&logo=SSIS&logoColor=white) 
-![Business intelligence](https://img.shields.io/badge/Business intelligence-%23013243.svg?style=flat&logo=Business intelligence&logoColor=white) 
+![Businessintelligence](https://img.shields.io/badge/Businessintelligence-%23013243.svg?style=flat&logo=Businessintelligence&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FarzadFarhadian&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
