@@ -4,7 +4,8 @@ I'm a Data analyst with a strong background instatistics, probability, Excel, Po
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farzad-farhadian-80a768217/) 
-![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=Kaggle&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=Kaggle&logoColor=white) (https://kaggle.com/in/https:/www.kaggle.com/in/farzadfar)
+
 
 
 # 💻 Tech Stack:
