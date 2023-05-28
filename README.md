@@ -6,7 +6,7 @@ I'm a Data analyst with a strong background instatistics, probability, Excel, Po
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farzad-farhadian-80a768217/) 
 
 # 💻 Tech Stack:
-//img.shields.io/badge/SQLServer-%23EE4C2C.svg?style=flat&logo=SQLServer&logoColor=white) 
+ 
 ![PowerBi](https://img.shields.io/badge/PowerBi-%23D00000.svg?style=flat&logo=PowerBi&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Excel-%23FF6F00.svg?style=flat&logo=Excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%2307405e.svg?style=flat&logo=Tableau&logoColor=white)
